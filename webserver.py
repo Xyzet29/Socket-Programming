@@ -5,7 +5,7 @@ import mimetypes
 from datetime import datetime
 from urllib.parse import unquote
 
-HOST = "0.0.0.0"
+HOST = "YOUR_HOST"
 HTTP_PORT = 8000
 UDP_PORT = 9000
 WEB_ROOT = "HTML"

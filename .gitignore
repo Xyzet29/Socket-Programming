@@ -1,0 +1,9 @@
+# Mengabaikan folder cache project socket Anda
+cache/
+
+# Mengabaikan folder cache otomatis dari Python
+__pycache__/
+*.pyc
+
+# Mengabaikan file log (jika ada)
+*.log

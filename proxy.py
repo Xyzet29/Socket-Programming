@@ -5,10 +5,10 @@ import time
 from datetime import datetime
 
 # Konfigurasi Proxy dan Web Server
-PROXY_HOST = "10.20.224.53"
+PROXY_HOST = "YOUR_PROXY_HOST"
 PROXY_PORT = 8080
 
-WEB_SERVER_HOST = "10.20.224.60"
+WEB_SERVER_HOST = "YOUR_WEB_SERVER_HOST"
 WEB_SERVER_PORT = 8000
 
 BUFFER_SIZE = 65536
