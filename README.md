@@ -114,3 +114,8 @@ Proxy Server
   3. `client.py`
 - Pastikan folder `HTML/` tersedia.
 - Request pertama akan menghasilkan **Cache MISS**, sedangkan request berikutnya akan menjadi **Cache HIT**.
+
+## Author
+* **Xyzet29** (Bagian Proxy)
+* **Fijarsatria** (Bagian Web Server)
+* **Tyrexs1** (Bagian Client)
